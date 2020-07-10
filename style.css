@@ -1,0 +1,46 @@
+h1 {
+text-align: center;
+}
+
+p.red {
+    color: red;
+}
+
+p.blue {
+    color: blue;
+}
+
+p.green {
+    color:green;
+}
+
+p.big {
+    font-size: 24px;
+}
+
+p.big {
+    font-size: 5px;
+}
+
+p.centered {
+    text-align: center;
+}
+
+p.bold {
+    font-weight: bold;  
+}
+
+p.multiple {
+    font-size: 24px;
+    color: orange;
+    font-weight: bold;
+
+p.styledFont {
+    color: green;
+}
+
+p.styledImage {
+    border: 2px solid orange;  
+}
+
+

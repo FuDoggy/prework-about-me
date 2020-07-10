@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.big {
+    font-size: 24px;
+}
+
+.tiny {
+    font-size: 8px;
+}
+
+.centered {
+    text-align: center;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+.font {
+    font-family: impact;
+}
+
+.multiple {
+    font-size: 18px;
+    color: orange;
+    font-weight: 900;
+}
+
+.styledFont {
+    color: green;
+}
+
+#styledImage {
+    border-width: 6px;
+    border-style: solid;
+    border-color: orange;
+}
